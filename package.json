@@ -16,7 +16,7 @@
   "author": "Yevhen Podoliaka <>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/yevhenpodoliaka/ice-cream-team-project"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
